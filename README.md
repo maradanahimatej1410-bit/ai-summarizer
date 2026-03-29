@@ -1,6 +1,6 @@
 # 🚀 AI Text Summarizer API
 
-## 🚀 Live Demo
+## 🔴 Live Demo
 https://summarizer-service-230227073831.asia-south1.run.app/
 
 ## 📌 Project Description
